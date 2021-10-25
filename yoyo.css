@@ -7,6 +7,8 @@ html, body
 body
 {
 background-image: linear-gradient(to right top, #f1b979, #d894f3, #1882c1, #0aaa8f, #ffcd81 , #63f0ba);
+height: 100%;
+
 
 }
 
